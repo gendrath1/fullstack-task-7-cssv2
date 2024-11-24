@@ -1,0 +1,311 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  }
+
+body {
+    margin: 0;
+}
+
+.headbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(44, 62, 80); 
+    padding: 10px 20px;
+  
+ 
+}
+
+.logo{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.links {
+    display: flex;  
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+
+}
+
+
+#ss{
+    color: white;
+    font-size:30px;
+}
+.avtar{
+    text-align: center;
+
+    width: 100%;
+}
+.fa-solid{
+
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom:10px  ;
+    }
+
+
+
+
+
+.about{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+    
+    height: 580px;
+    width: 100%;
+    background-color:  rgb(26, 188, 156);
+}
+
+
+.discr{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.dis{
+    color: white;
+    width: 20%;
+}
+h2{
+    font-size: 50px ;
+    color:white;
+    text-align: center;
+    justify-content: center;
+    align-content:center;
+    
+}
+.coustom{
+    margin-top: px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content:center;
+}
+.custom-line{
+    height: 4px;
+    width: 120px;
+    background-color: white;
+}
+.download{
+    color: white;
+    background-color: rgb(26, 188, 156);
+    padding: 20px;
+    border-radius: 10px;
+    border-color: white;
+}
+.download-bu{
+    width: 100%;
+   text-align: center;
+
+}
+
+.foter {
+    background-color:  rgb(44, 62, 80); 
+    color: white;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+.mid{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#PORTFOLIO{
+    width: 100%;
+    font-size: 50px ;
+    text-align: center;
+    justify-content: center;
+    align-content:center;
+
+}
+img{
+    margin-top: 10px;
+    width: 440px;
+    height: 288px;
+    }    
+    
+.imgs{
+   
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.imgs2{
+   
+    display: flex;
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+.contact 
+{
+
+    width: 100%;
+
+}
+
+
+
+
+form {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.intami{
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+
+}
+#contact-me{
+    font-size: 50px ;
+    text-align: center;
+    justify-content: center;
+    align-content:center;
+}
+.coustom1{
+    margin-top: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content:center;
+}
+.custom-line1{
+    height: 4px;
+    width: 120px;
+    background-color: black;
+}
+#star{
+    color: black;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom:10px  ;
+}
+
+
+
+
+.form-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid ;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+
+.contact-form button {
+    background-color: rgb(26, 188, 156);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foter {
+    width: 100%;
+    background-color:  rgb(44, 62, 80); 
+    color: white;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .section h4 {
+    margin-bottom: 15px;
+    font-size: 16px;
+    text-transform: uppercase;
+  }
+  
+   
+  .Bootstrap{
+    color:  rgb(26, 188, 156);
+  }
+  .social-icons i{
+  margin: 0 10px;
+  display: inline-block;
+  font-size: 20px;
+  }
+
+
+
